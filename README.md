@@ -6,9 +6,7 @@ Hello World! My name is Kirsi <em>(keer-see)</em>.  As a former Information Syst
 
 [![Kirsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirsralk&theme=dracula&show_icons=true)](https://github.com/kirsralk/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirsralk&layout=compact)](https://github.com/kirsralk/github-readme-stats)
-
-Awesome Github stats graphics by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats#github-stats-card).
+###Awesome Github stats graphic by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats#github-stats-card).
 
 <!--
 **kirsralk/kirsralk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
