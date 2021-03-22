@@ -1,4 +1,4 @@
-## Hi there, I'm Kirsi Ralko 👋
+## Hi there, I'm Kirsi Ralko 👋☕ 
 
 ### I decided to take my love of logical reasonsing all the way to law school ⚖️
 
