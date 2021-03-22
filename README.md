@@ -1,7 +1,7 @@
 ## Hi there, I'm Kirsi Ralko 👋☕ (She / Her / Hers)
 
 
-### I decided to take my love of logical reasonsing all the way to law school ⚖️
+### I decided to take my love of logical reasoning all the way to law school ⚖️
 
 Hello World! My name is Kirsi <em>/keer-see/</em>.  I'm a former Information Systems major (Class of 2012) and after a bit of a detour to become a lawyer, I decided in 2020 that it was time to udpate my coding skills and seek out new challenges in tech. Check out my pinned repos for examples of projects I've been working on for the Carleton University Full Stack program.
 
