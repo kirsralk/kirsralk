@@ -3,7 +3,7 @@
 
 ### I decided to take my love of logical reasonsing all the way to law school ⚖️
 
-Hello World! My name is Kirsi <em>(keer-see)</em>.  I'm a former Information Systems major (graduated in 2021), and in 2020 I decided it was time to udpate my coding skills and seek out new challenges in tech. Check out my pinned repos for examples of projects I've been working on for the Carleton University Full Stack program.
+Hello World! My name is Kirsi <em>(keer-see)</em>.  I'm a former Information Systems major (Class of 2012), and in 2020 I decided it was time to udpate my coding skills and seek out new challenges in tech. Check out my pinned repos for examples of projects I've been working on for the Carleton University Full Stack program.
 
 [![Kirsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirsralk&theme=dracula&show_icons=true)](https://github.com/kirsralk/github-readme-stats)  
 
