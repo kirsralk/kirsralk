@@ -1,6 +1,8 @@
 ## Hi there, I'm Kirsi Ralko 👋
 
 ### I decided to take my love of logical reasonsing all the way to law school ⚖️
+
+Hello World! My name is Kirsi <em>(keer-see)</em> and 
 <!--
 **kirsralk/kirsralk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
