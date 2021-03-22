@@ -1,5 +1,5 @@
 ## Hi there, I'm Kirsi Ralko 👋☕ 
-### She / Her / Hers 
+#### She / Her / Hers 
 
 ### I decided to take my love of logical reasonsing all the way to law school ⚖️
 
