@@ -1,3 +1,5 @@
+![header](assets/header.png)
+
 ## Hi there, I'm Kirsi Ralko 👋☕ (She / Her / Hers)
 
 
